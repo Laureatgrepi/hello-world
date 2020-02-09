@@ -1,0 +1,3 @@
+[submodule "OraLetrare"]
+	path = OraLetrare
+	url = git@github.com:Laureatgrepi/OraLetrare.git
